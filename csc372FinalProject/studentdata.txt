@@ -1,0 +1,9 @@
+Student Name: Baylee Knight
+Student Address: 54236 Horse Ave, Desert, CO, 63915
+Student GPA: 4.0
+Student Name: Christina Ytterock
+Student Address: 15236 Western Way, Springs, MI, 17896
+Student GPA: 3.5
+Student Name: Roman Moon
+Student Address: 76984 Morning Lane, Arvada, CO 45235
+Student GPA: 3.4
